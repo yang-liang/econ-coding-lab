@@ -34,6 +34,12 @@ You are encouraged to use **Stata** or **R** for the empirical components of thi
 
 Both tools are widely used in economics, and the skills you learn here will transfer well beyond this class.
 
+## ECON 561 Labs
+
+- [Does the Heckscher-Ohlin model survive the data?](ho-empirics/README.md): tests of the HO theorem, factor price equalization, Rybczynski and Stolper-Samuelson with real data (Penn World Table, BACI, NBER-CES).
+- [Empirical case interviews: an answer key](interview-cases/README.md): five practice cases in the style of economist and data scientist interviews (A/B tests, selection bias, difference-in-differences, tariff pass-through, demand elasticity).
+- [Ricardian simulation workshop](ricardian_workshop.do)
+
 ---
 Dr. Liang
 
