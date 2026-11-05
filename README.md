@@ -38,6 +38,7 @@ Both tools are widely used in economics, and the skills you learn here will tran
 
 - [Does the Heckscher-Ohlin model survive the data?](ho-empirics/README.md): tests of the HO theorem, factor price equalization, Rybczynski and Stolper-Samuelson with real data (Penn World Table, BACI, NBER-CES).
 - [Empirical case interviews: an answer key](interview-cases/README.md): five practice cases in the style of economist and data scientist interviews (A/B tests, selection bias, difference-in-differences, tariff pass-through, demand elasticity).
+- [Mock data-science interviews: two business cases](mock-interviews/README.md): an Amazon-style case (was Prime Day worth it? event study, pull-forward, profit) and a Spotify-style case (should we switch to a 3-month free trial? A/B test, intent to treat, revenue over time), each ending with the slide you would show your manager.
 - [Ricardian simulation workshop](ricardian_workshop.do)
 
 ---
